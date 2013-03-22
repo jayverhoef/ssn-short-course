@@ -1,0 +1,3 @@
+<?xml version="1.0"?>
+<!--<!DOCTYPE metadata SYSTEM "http://www.esri.com/metadata/esriprof80.dtd">-->
+<metadata xml:lang="en"><Esri><MetaID>{0D9EED16-D71D-459E-BF8E-051E5605606D}</MetaID><CreaDate>20070618</CreaDate><CreaTime>14283800</CreaTime><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process Name="Reclassify_4" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\Reclassify" Date="20070618" Time="142838">Reclassify nlcd_alb Value "11 NODATA;21 1;22 1;23 1;33 NODATA;41 NODATA;42 NODATA;43 NODATA;81 NODATA;82 NODATA;85 NODATA;91 NODATA;92 NODATA" E:\projects\shortcourse\gisdata\nlcd\developed DATA</Process></lineage></DataProperties></Esri></metadata>

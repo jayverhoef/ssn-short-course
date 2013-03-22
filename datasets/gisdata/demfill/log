@@ -1,0 +1,3 @@
+200706161542   0     0     0pet221 E:\projects\SHORTC~1\gisdata\scdata\raster4 =  CON ( E:\projects\SHORTC~1\gisdata\scdata\raster3 eq 255,  min(E:\projects\SHORTC~1\gisdata\scdata\raster2(1,1), E:\projects\SHORTC~1\gisdata\scdata\raster2(1,0), E:\projects\SHORTC~1\gisdata\scdata\raster2(1,-1), E:\projects\SHORTC~1\gisdata\scdata\raster2(0,1), E:\projects\SHORTC~1\gisdata\scdata\raster2(0,-1), E:\projects\SHORTC~1\gisdata\scdata\raster2(-1,1), E:\projects\SHORTC~1\gisdata\scdata\raster2(-1,0), E:\projects\SHORTC~1\gisdata\scdata
+200706161850   0     0     0pet221 copy filldem e:\projects\shortcourse\gisdata\scdata2\filldem
+200706171111   0     0     0pet221 copy filldem e:\projects\shortcourse\gisdata\data\demfill

@@ -1,0 +1,3 @@
+<?xml version="1.0"?>
+<!--<!DOCTYPE metadata SYSTEM "http://www.esri.com/metadata/esriprof80.dtd">-->
+<metadata xml:lang="en"><Esri><MetaID>{6095F9C7-681A-47A6-91BF-BEA9F794990F}</MetaID><CreaDate>20070616</CreaDate><CreaTime>15424900</CreaTime><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process Name="Fill_3" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\Fill" Date="20070616" Time="154249">Fill dem E:\projects\shortcourse\gisdata\scdata\filldem #</Process></lineage></DataProperties></Esri></metadata>

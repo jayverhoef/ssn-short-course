@@ -1,0 +1,3 @@
+<?xml version="1.0"?>
+<!--<!DOCTYPE metadata SYSTEM "http://www.esri.com/metadata/esriprof80.dtd">-->
+<metadata xml:lang="en"><Esri><MetaID>{BEB8660A-47CA-4343-8F03-F924075F33A6}</MetaID><CreaDate>20070616</CreaDate><CreaTime>15431100</CreaTime><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process Name="FlowDirection_4" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\FlowDirection" Date="20070616" Time="154311">FlowDirection filldem E:\projects\shortcourse\gisdata\scdata\flowdir NORMAL #</Process></lineage></DataProperties></Esri></metadata>
